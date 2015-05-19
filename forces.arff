@@ -1,0 +1,4 @@
+@relation 'Forces'
+@attribute Force real
+@attribute Error real
+@data
